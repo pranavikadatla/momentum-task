@@ -1,0 +1,22 @@
+.app-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .main-content {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .config-panel {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .disabled input {
+    background: #eee;
+    cursor: not-allowed;
+  }
+  
